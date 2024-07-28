@@ -27,3 +27,4 @@ GarbageMan is a compiled Python application that allows you easily delete MacOS 
 ## Notes
 
 - Indexing files aren't needed and can be safely deleted.
+- Uncompiled python file included for code auditing and modifications.
